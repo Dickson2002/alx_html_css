@@ -132,6 +132,7 @@ button {
   .hero-section .nav-bar .menu-btn {
     display: none;
   }
+}
 
   @media (min-width: 1200px) {
   .container {
@@ -149,4 +150,5 @@ button {
   
   .hero-section .hero-content h2 {
     width: 40%;
+  }
   }

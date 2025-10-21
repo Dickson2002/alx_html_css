@@ -123,7 +123,7 @@ button {
   .service-item {
     width: 45%;
   }
-
+}
   /* DESKTOP STYLES */
 @media (min-width: 1200px) {
   .container {
@@ -139,3 +139,4 @@ button {
   .service-item {
     width: auto;
   }
+}
